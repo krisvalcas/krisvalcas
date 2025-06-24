@@ -36,7 +36,6 @@ Tecnologías: Python (Pandas, Matplotlib, Seaborn), SQL.
 
 Logros: Limpieza y preprocesamiento de datos a gran escala, identificación de tendencias en horas y días de pedido, y descubrimiento de los productos más populares y recomprados.
 
-🚀 Ver el proyecto completo aquí: [Link a tu repositorio de Instacart]
 
 🎮 Análisis de Patrones de Éxito en la Industria de Videojuegos (Ice Online Store)
 
@@ -46,7 +45,7 @@ Tecnologías: Python (Pandas, Matplotlib, Seaborn), SQL, Pruebas de Hipótesis.
 
 Logros: Gestión de datos extensos con valores ausentes, análisis de la correlación entre reseñas y ventas, y pruebas de hipótesis para validar suposiciones clave del mercado.
 
-📈 Ver el proyecto completo aquí: [Link a tu repositorio de Videojuegos]
+
 
 🚕 Análisis de Preferencias de Pasajeros para Zuber – Chicago
 
@@ -56,7 +55,7 @@ Tecnologías: SQL (consultas complejas), Python, Estadística Inferencial.
 
 Logros: Extracción y manipulación de datos en bases de datos relacionales, clasificación de condiciones climáticas y pruebas de hipótesis sobre el impacto del clima en la duración de los viajes.
 
-☔ Ver el proyecto completo aquí: [Link a tu repositorio de Zuber]
+
 
 Conectemos
 ¡Siempre estoy abierto a nuevas conexiones y oportunidades! No dudes en contactarme.
