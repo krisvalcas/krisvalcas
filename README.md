@@ -2,7 +2,7 @@
 
 <br>
 
-Soy un **Analista de Datos Junior** de Perú, apasionado por convertir datos en insights claros y accionables. Actualmente estoy perfeccionando mis habilidades en el bootcamp de TripleTen y siempre estoy en busca de nuevos desafíos para aplicar mi conocimiento.
+Soy un **Analista de Datos Junior** de Perú, apasionado por convertir datos en insights claros y accionables. Actualmente estoy perfeccionando mis habilidades y siempre estoy en busca de nuevos desafíos para aplicar mi conocimiento.
 
 ---
 
