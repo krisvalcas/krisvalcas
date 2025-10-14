@@ -6,7 +6,7 @@
 
 <br>
 
-Soy un **Analista de Datos Junior** de Perú, apasionado por convertir datos en insights claros y accionables. Actualmente estoy perfeccionando mis habilidades y siempre estoy en busca de nuevos desafíos para aplicar mi conocimiento.
+📊 Analista de Datos emergente con experiencia práctica relevante 💻, graduado de TripleTen 🎓. Domino Python 🐍 y SQL 💾 para el análisis, manipulación y visualización de datos 📈. Mi experiencia previa en Administración Industrial ⚙️, combinada con mi manejo de Excel intermedio 📄 y la capacidad de liderar equipos 👥, me proporciona una perspectiva integral y estratégica para la resolución de problemas 💡.
 
 ---
 
