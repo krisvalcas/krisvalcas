@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner para Linkedin Analista Sistemas Moderno Negro.png" alt="Banner de Christian Valdivia">
+  <img src="Banner para Linkedin Analista Sistemas Moderno Negro (1).png" alt="Banner de Christian Valdivia">
 </p>
 
 ### ¡Hola! 👋 Soy Christian Valdivia
